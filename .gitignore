@@ -1,0 +1,19 @@
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+**/build/
+
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+### Java ###
+# Compiled class file
+*.class
+
+
+# IntelliJ
+out/
+
+target/
+*.iml
